@@ -1,0 +1,24 @@
+{
+ "tipoProduto": [
+    {
+      "id": 1,
+      "titulo": "lanche",
+      "descricao": "xxxxxxxxxxxxxxxx"
+    },
+    {
+      "id": 2,
+      "titulo": "bebida",
+      "descricao": "xxxxxxxxxxxx"
+    },
+    {
+      "id": 3,
+      "titulo": "doce",
+      "descricao": "xxxxxxxx"
+    },
+    {
+      "id": 4,
+      "titulo": "sobremesa",
+      "descricao": "xxxxxxxxx"
+    }
+  ]
+}
